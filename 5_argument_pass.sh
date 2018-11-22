@@ -1,5 +1,8 @@
 #! /bin/bash
 
+#Author: Rakesh S
+#Date: 22/11/2018
+
 # argument passed to a bash script will be stored in default variables 1, 2, 3 etc. while running program user can pass argument
 # in th format ./argument_pass.sh arg1 arg2 arg3...
 
